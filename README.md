@@ -25,9 +25,9 @@ either on the left or right accordingly until the whole desired tree is built
 
 ### STEP 4.
 * An individual function is deployed for each of the following traversal methods
-1- In-Order
-2- Pre-Order
-3- Post-Order
+ In-Order
+ Pre-Order
+ Post-Order
 
 ### STEP 5. 
 * Now that both the Binary Tree and the traversal methods are implemented we can
