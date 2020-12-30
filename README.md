@@ -1,15 +1,15 @@
-# Python TraversalMethods
+# Python Traversal Methods
 
 ## This program will create a Binary Tree as such
-#             8
-#           /   \
-#          5     4
-#         / \     \
-#        9   7     11
-#           / \      \
-#          1   12     3   
-#              /
-#             2
+             8
+           /   \
+          5     4
+         / \     \
+        9   7     11
+           / \      \
+          1   12     3   
+              /
+             2
 
 ### STEP 1.
 * Setup working environment, Header Notes/README.
