@@ -25,8 +25,8 @@ either on the left or right accordingly until the whole desired tree is built
 
 ### STEP 4.
 * An individual function is deployed for each of the following traversal methods
-* In-Order
 * Pre-Order
+* In-Order
 * Post-Order
 
 ### STEP 5. 
@@ -35,9 +35,12 @@ now we can run the program so that we can get the results for each traversal
 
 ### Result
 * The result we are we expecting for each of the traversal methods is the following:
-* inorder 9-5-1-7-2-12-8-4-11-3
-* preorder 8-5-9-7-1-12-2-4-11-3
-* postorder 9-5-1-7-2-12-4-11-3-8
+*Preorder traversal of binary tree is
+8,5,9,7,1,12,2,4,11,3,
+*Inorder traversal of binary tree is
+9,5,1,7,2,12,8,4,11,3,
+*Postorder traversal of binary tree is
+9,1,2,12,7,5,3,11,4,8,
 
 ### Final Comments:
 * The application was a challenge considering how the tree needs to be implemented and each of the nodes 
